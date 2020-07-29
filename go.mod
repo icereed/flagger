@@ -9,6 +9,7 @@ require (
 	github.com/google/go-cmp v0.4.0
 	github.com/prometheus/client_golang v1.5.1
 	github.com/stretchr/testify v1.5.1
+	github.com/zalando/skipper v0.11.134
 	go.uber.org/zap v1.14.1
 	gopkg.in/h2non/gock.v1 v1.0.15
 	k8s.io/api v0.18.2
